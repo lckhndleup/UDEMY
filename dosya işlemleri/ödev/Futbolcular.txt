@@ -1,0 +1,19 @@
+Fernando Muslera,Galatasaray
+Altay Bayındır,Fenerbahçe
+Rüştü Rençber,Beşiktaş
+Marcao,Galatasaray
+Kaer,Fenerbahçe
+Ümit Özat,Fenerbahçe
+Carin,Beşiktaş
+Sergen Yalçın,Beşiktaş
+Mesut özil,Fenerbahçe
+Georgi Hagi,Galatasaray
+Lincoln,Galatasaray
+Anelka,Fenerbahçe
+Alex,Fenerbahçe
+Drogba,Galatasaray
+Mehmet topal,Beşiktaş
+Ahmet Dursun,Beşiktaş
+Burak Yılmaz,Beşiktaş
+Roberto Carlos,Fenerbahçe
+Caner Erkin ,Fenerbahçe
